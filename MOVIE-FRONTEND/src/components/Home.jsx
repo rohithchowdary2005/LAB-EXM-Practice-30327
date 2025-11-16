@@ -5,7 +5,7 @@ const Home = () => {
     <div className="home">
       <div className="hero-section">
         <h1>Welcome to MovieVerse</h1>
-        <p>Your ultimate destination for managing your movie collection</p>
+        <p>Your ultimate destination for managing your movie collections</p>
       </div>
       <div className="features">
         <div className="feature-card">
